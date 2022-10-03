@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hiba-185
-- 👀 I’m interested in Artificial intelligence and its subset
+- 👀 I’m interested in Artificial intelligence and its subset.
 - 🌱 I’m currently learning C++, Machine learning 
-- 💞️ I’m looking to collaborate on AI related projects 
+- 💞️ I’m looking to collaborate on AI related projects and frontend web work..
 - 📫 How to reach me via email-hibak5812@gmail.com 
 
 <!---
